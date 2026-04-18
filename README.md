@@ -16,6 +16,7 @@ python src/main.py
 
 ## Integrantes
 Bello Yoval Elsy Abril
+Cortez Olivares Jose Ramon
 * Equipo numero 8
 
 
