@@ -3,5 +3,5 @@
 # Descripción: Programa básico
 
 print("Sistema funcionando correctamente")
-jose ramon cortez olivares
+#jose ramon cortez olivares
 # Dante Emmanuel Sanchez Hernandez
