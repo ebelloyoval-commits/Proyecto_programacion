@@ -1,7 +1,3 @@
-Claro 👍 te dejo una **descripción completa** que puedes usar en tu proyecto (para tu README o reporte). Está lista para copiar y pegar:
-
----
-
 # Calculadora Básica
 
 ## Descripción General
