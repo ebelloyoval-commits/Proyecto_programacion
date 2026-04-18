@@ -4,7 +4,7 @@ Zs24021882@estudiantes.mx.uv
 bello yoval elsy abril
 Zs24013129@estudiantes.mx.uv
 
-sanchez hernandez dante emanuel
+sanchez hernandez dante emmanuel
 Zs24013177@estudiantes.mx.uv
 
 bello rojas cristian samuel
