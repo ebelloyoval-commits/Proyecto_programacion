@@ -1,12 +1,12 @@
 PROJECT.md
 Calculadora Básica
-#Descripción del Proyecto
+Descripción del Proyecto
 Este proyecto consiste en el desarrollo de una calculadora con funciones básicas, diseñada para realizar operaciones matemáticas fundamentales como suma, resta, multiplicación y división.
 El objetivo es aplicar conceptos de programación y/o electrónica (según tu proyecto) para construir una herramienta funcional y fácil de usar.
-#Objetivos
+Objetivos
 Objetivo General
 Desarrollar una calculadora funcional que permita realizar operaciones matemáticas básicas de manera eficiente.
-#Objetivos Específicos
+Objetivos Específicos
 Implementar operaciones básicas:
 *Suma
 *Resta
@@ -15,7 +15,7 @@ Implementar operaciones básicas:
 Diseñar una interfaz simple y fácil de usar
 Validar entradas del usuario
 Mostrar resultados correctamente
-#MVP (Producto Mínimo Viable)
+MVP (Producto Mínimo Viable)
 El sistema deberá permitir:
 Ingresar dos números
 Seleccionar operación matemática
@@ -29,7 +29,7 @@ Limpiar pantalla
 * Botón de limpiar
 * Pantalla de resultados
   
-#Estructura del Proyecto
+Estructura del Proyecto
 
 Calculadora/
 │
