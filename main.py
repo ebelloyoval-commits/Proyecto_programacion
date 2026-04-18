@@ -3,3 +3,4 @@
 # Descripción: Programa básico
 
 print("Sistema funcionando correctamente")
+jose ramon cortez olivares
