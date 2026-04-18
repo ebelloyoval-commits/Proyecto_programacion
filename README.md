@@ -1,54 +1,23 @@
-\# Proyecto - Versión Actualizada
+# Proyecto - Versión Actualizada
 
+## Descripción
 
+Sistema básico que imprime un mensaje en pantalla.
 
-\## Descripción
+## Estructura
 
+* src/: contiene el código fuente
+* docs/: contiene evidencia del funcionamiento
 
+## Ejecución
 
-Este proyecto muestra un programa básico en Python que imprime un mensaje en pantalla.
+Ejecutar:
+python src/main.py
 
-
-
-\## Requisitos
-
-
-
-\* Python instalado
-
-
-
-\## Ejecución
-
-
-
-1\. Abrir la carpeta del proyecto
-
-2\. Ejecutar: python main.py
-
-
-
-\## Estado
-
-
-
-Versión funcional básica completada
-
-
-
-\## Integrantes
-
-
-
+## Integrantes
 Bello Yoval Elsy Abril
+* Equipo numero 8
 
-Piña Hernández Magly
-
-Bello Rojas Cristian Samuel
-
-Cortez Olivares José Ramon 
-
-Sánchez Hernández Dante Emmanuel
 
 
 
