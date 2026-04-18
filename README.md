@@ -45,7 +45,7 @@ Bello Yoval Elsy Abril
 Piña Hernandez Magly
 Cortes Olivares Jose Ramon
 Bello Rojas Cristian Samuel
-Sanches Hernaqndez Dante Emmanuel
+Sanchez Hernandez Dante Emmanuel
 Equipo 8
 
 
