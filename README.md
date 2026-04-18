@@ -16,7 +16,7 @@ python src/main.py
 
 ## Integrantes
 Bello Yoval Elsy Abril
-
+Sanchez Hernandez Dante Emmanuel
 Cortez Olivares Jose Ramon
 * Equipo numero 8
 
