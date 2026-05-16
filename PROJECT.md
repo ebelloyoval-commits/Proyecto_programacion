@@ -72,7 +72,7 @@ Diseño del proyecto
 Semana 3
 Desarrollo de código
 Semana 4
-Pruebas
+Pruebas finales
 Semana 5
 Documentación
 
